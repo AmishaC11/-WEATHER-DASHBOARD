@@ -50,3 +50,7 @@ Interacts with live data sources via OpenWeatherMap API, ensuring up-to-date inf
 
 Learning Outcomes and Benefits-
 This project enhanced my understanding of asynchronous programming in JavaScript, effective state management in React, and working with third-party REST APIs. It also provided practical experience in handling real-time data, designing interactive UIs, and debugging live issues. Moreover, the project offered insight into building modular, maintainable front-end applications—an essential skill in professional development.
+
+#OUTPUT
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/80e4b4ef-64c4-43d1-9e04-6a6b72352d6f" />
